@@ -7,3 +7,4 @@ proveo sam
 noc
 u zatvoru
 sa nekim
+ciganima
