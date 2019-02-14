@@ -1,5 +1,5 @@
 # carnojevic
-dnevnik o
+dnevnik o carnojevicu
 jesen 
 i zivot
 bez smisla
@@ -11,3 +11,5 @@ sa nekim
 ciganima
 vucem se
 po kavanama
+sednem
+do prozora
